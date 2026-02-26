@@ -26,7 +26,7 @@ First I needed to find what ports were open on the target machine.
 ip a
 ping 192.168.1.9
 nmap -sS 192.168.1.9
-
+```
 ![image](https://github.com/user-attachments/assets/735e6cda-61d4-44db-a90b-359a27136617)
 
 
